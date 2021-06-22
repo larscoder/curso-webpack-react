@@ -25,4 +25,5 @@ Instalamos las sigueintes librerías
 ```
 npm install webpack webpack-cli webpack-dev-server -D
 npm install html-loader html-webpack-plugin -D
+npm install mini-css-extract-plugin css-loader style-loader sass sass-loader -D
 ```
