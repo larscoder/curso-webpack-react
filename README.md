@@ -21,7 +21,8 @@ Creamos .babelrc y agregamos los presets:
 }
 ```
 
-Instalamos webpack y webpack server
+Instalamos las sigueintes librerías
 ```
-npm install webpack-cli webpack-dev-server -D
+npm install webpack webpack-cli webpack-dev-server -D
+npm install html-loader html-webpack-plugin -D
 ```
